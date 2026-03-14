@@ -1,8 +1,7 @@
 // src/components/ProductCategories.js
 import React from 'react';
 import { Link } from "react-router-dom";
-import product1 from "../app/images/product/1.png";
-import product11 from "../app/images/product/11.png";
+
 
 
 const categories = [
