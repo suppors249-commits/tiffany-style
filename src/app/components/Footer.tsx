@@ -32,7 +32,7 @@ export function Footer() {
               className="mb-6 tracking-widest text-3xl"
               style={{ color: 'var(--luxury-gold)', letterSpacing: '0.3em' }}
             >
-              Acesories
+            Soube
             </h3>
             <p className="mb-6 leading-relaxed" style={{ color: 'var(--luxury-gray-light)' }}>
               إكسسوارات فاخرة من Stainless Steel و Gold Plated. تصاميم أنيقة تدوم طويلاً.
